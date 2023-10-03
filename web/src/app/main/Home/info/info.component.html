@@ -1,0 +1,40 @@
+<div mat-dialog-title class="custom-dialog-title flex justify-between bg-[#3B81F6]">
+    <span class="text-xl text-gray-50">View info: <strong>{{data?.msg}}</strong> </span>
+    <button (click)="close()" class="group p-1 rounded-md hover:bg-gray-100/90 duration-300 flex justify-center items-center">
+        <mat-icon svgIcon="mat_outline:close" class="group-hover:text-gray-900 duration-300 cursor-pointer font-bold text-gray-50" ></mat-icon>
+    </button>
+</div>
+
+<mat-dialog-content class="custom-dialog-content-list-user" >
+    <div  *ngIf="isLoading" class="w-full flex justify-center">
+
+        <div class="lds-ring"><div></div><div></div><div></div><div></div></div>
+
+    </div>
+    <div class="w-full flex flex-col" *ngIf="!isLoading">
+
+        <div class="w-full px-2 flex justify-between gap-1">
+            <div class="w-full flex flex-col">
+                <span class="text-lg text-red-500 ml-1 whitespace-nowrap"><!-- Ensure the disease information is passed in the data.diseaseInfo object -->
+                    Disease: {{data?.msg}}</span>
+                <span class="text-lg text-gray-500 ml-1 font-light">{{infor?.Occurs}}</span>
+            </div>
+        </div>
+        <br>
+        <div class="w-full pl-4 flex justify-between gap-1">
+            <div class="w-full flex flex-col">
+                <span class="text-lg text-red-500 ml-1 whitespace-nowrap">Identify:</span>
+                
+                <span class="text-lg text-gray-500 ml-1 font-light">{{infor?.Identify}}</span>
+            </div>
+        </div>
+        <br>
+        <div class="w-full pl-4 flex justify-between gap-1">
+            <div class="w-full flex flex-col">
+                <span class="text-lg text-green-500 ml-1 whitespace-nowrap">Manage:</span>
+                <span class="text-lg text-gray-500 ml-1 font-light">{{infor?.Manage}}</span>
+            </div>
+        </div>
+    </div>
+    
+</mat-dialog-content>

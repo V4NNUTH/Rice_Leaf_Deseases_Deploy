@@ -1,0 +1,657 @@
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Brown Spot (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 11:58:20] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Brown Spot (93.95%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 11:58:41] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Brown Spot (99.99%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 11:58:48] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 11:58:54] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Narrow Brown (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 11:59:09] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 11:59:21] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (99.98%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 12:11:35] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\_MEI423762\\base_library.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\create_ruleset.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\emojipy.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\generated.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_emojione.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_conversion.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_ruleset.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\setup.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_sprite.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\ruleset.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\katex\\src\\fonts\\generate_fonts.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\katex\\src\\metrics\\extract_tfms.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\katex\\src\\metrics\\extract_ttfs.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\katex\\src\\metrics\\format_json.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\katex\\src\\metrics\\parse_tfm.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\gyp_main.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSProject.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSNew.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSSettings.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSUserFile.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSSettings_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSToolFile.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSUtil.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSVersion.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\common_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\common.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\scaffold.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\model\\test.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Healthy (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 13:40:57] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Narrow Brown (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 13:41:14] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Narrow Brown (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 13:41:21] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 13:41:34] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 14:11:45] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (97.80%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 14:28:58] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\_MEI123202\\base_library.zip', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 17:15:47] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Brown Spot (100.00%)
+INFO:werkzeug:127.0.0.1 - - [13/Sep/2023 17:16:22] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:22] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:22] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:22] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:22] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:23] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:23] "POST / HTTP/1.1" 200 -
+ERROR:root:An error occurred: image file is truncated
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+ERROR:root:An error occurred: image file is truncated
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:23] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:24] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:24] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:24] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:36:24] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:40:26] "GET / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 12:40:27] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\create_ruleset.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\emojipy.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\generated.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\ruleset.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_conversion.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_emojione.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_ruleset.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\tests\\test_sprite.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\emojipy\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\emoji-toolkit\\lib\\python\\setup.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\katex\\src\\fonts\\generate_fonts.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 13:12:04] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\gyp_main.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\common.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\common_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\easy_xml.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\easy_xml_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\flock_tool.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\analyzer.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\android.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\cmake.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\compile_commands_json.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\dump_dependency_json.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\eclipse.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\gypd.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\gypsh.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\make.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\msvs.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\msvs_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\ninja.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\ninja_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\xcode.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\generator\\xcode_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\input.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\input_test.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\mac_tool.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSNew.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSProject.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\web\\node_modules\\node-gyp\\gyp\\pylib\\gyp\\MSVSSettings.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Brown Spot (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 13:20:02] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Brown Spot (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 13:26:43] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 13:31:35] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Brown Spot (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 13:31:55] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [14/Sep/2023 13:37:38] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:40] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:49] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:51] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:52] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:24:53] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\typing.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:root:Predicted: Leaf Blast (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:26:01] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:26:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:24] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:25] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:26] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:27] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:27] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:28] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:31:30] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:32:12] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:34:56] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:35:06] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:35:08] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:35:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:35:09] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:35:18] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:37:21] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:37:22] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:37:23] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:39:34] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:39:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:39:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:39:36] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:39:46] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:41:34] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:41:34] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:41:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Brown Spot (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:41:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:42:41] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:42:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:42:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:42:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+ERROR:root:An error occurred: name 'disease_info' is not defined
+INFO:werkzeug:127.0.0.1 - - [15/Sep/2023 23:42:43] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\__autograph_generated_filewx68_p_i.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\__autograph_generated_filewx68_p_i.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-489-171
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 13:33:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 13:36:40] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 13:48:58] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\wrappers.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\globals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\app.py', reloading
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 15:14:09] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 15:14:09] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 15:14:09] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\pyright-14820-FjBl9fmLllp3\\builtins-14820-gFjwSm0KIg11-.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\pyright-14820-FjBl9fmLllp3\\builtins-14820-gFjwSm0KIg11-.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\pyright-14820-FjBl9fmLllp3\\builtins-14820-gFjwSm0KIg11-.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\scaffold.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\logging\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:32:23] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:32:23] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:32:23] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:33:03] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:33:03] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:33:03] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:42:07] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:42:07] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:42:07] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\AppData\\Local\\Temp\\pyright-14820-FjBl9fmLllp3\\builtins-14820-gFjwSm0KIg11-.py', reloading
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tensorflow_estimator\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tensorflow_io_gcs_filesystem\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\termcolor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\termcolor\\termcolor.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\terminado\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tika\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tinycss2\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tldextract\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tlz\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\toolz\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\tor\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\torch\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:47:00] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:47:00] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Sep/2023 16:47:00] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'c:\\Users\\Lenovo\\Desktop\\Rice_Leaf_Diseases_Deploy\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:49:32] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:49:33] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:49:33] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:04] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:04] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:19] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:19] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:55] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:51:55] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:03] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:03] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:09] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:09] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:12] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:13] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:29] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:29] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:32] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:52:34] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\Desktop\\RLDD\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\Desktop\\RLDD\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\Desktop\\RLDD\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:53:43] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:53:43] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:53:43] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:53:43] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:53:43] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:53:43] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:56:51] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:56:51] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Bacterial Leaf Blight (100.00%)
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:11] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:15] "OPTIONS /get_disease_info/Bacterial%20Leaf%20Blight HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:15] "GET /get_disease_info/Bacterial%20Leaf%20Blight HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:32] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:32] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:34] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Sep/2023 20:57:36] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Users\\Lenovo\\Desktop\\RLDD\\app.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\keras\\engine\\training.py', reloading
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:24:16] "POST / HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:25:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:25:56] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:25:56] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:26:27] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:26:28] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:26:28] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:27:33] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:27:34] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:27:34] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:27:55] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:27:56] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:27:56] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:28:36] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:28:37] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:28:37] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:29:30] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:29:31] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:29:31] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:32:33] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:32:34] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:32:34] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:33:14] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:33:14] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:33:34] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:33:35] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:33:35] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:34:54] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:34:55] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:34:55] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:35:44] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:35:46] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:35:46] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:01] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:06] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:06] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:21] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:21] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:37] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Brown Spot (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:45] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:46] "OPTIONS /get_disease_info/Brown%20Spot HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:46] "GET /get_disease_info/Brown%20Spot HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:55] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:40:55] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:41:15] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:41:16] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:41:16] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:45:21] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:45:47] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:46:09] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:50:17] "POST / HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:52:24] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:52:28] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:52:28] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:root:Predicted: Leaf Blast (100.00%)
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:56:42] "POST / HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:56:43] "OPTIONS /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Sep/2023 09:56:43] "GET /get_disease_info/Leaf%20Blast HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\app.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\scaffold.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\utils.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\globals.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\datastructures\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\typing.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\flask\\wrappers.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\_internal.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\werkzeug\\sansio\\request.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\__init__.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\core\\overrides.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nested_sequence.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\_nbit.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\_scalars.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\_shape.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\_array_like.py', reloading
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\_typing\\_generic_alias.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://10.168.35.236:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345
+INFO:werkzeug: * Detected change in 'C:\\Python311\\Lib\\site-packages\\numpy\\__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (windowsapi)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 952-126-345

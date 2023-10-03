@@ -1,0 +1,46 @@
+.custom-main-section-dense{
+    height: 100vh;
+    max-height: -webkit-fill-available;
+    overflow: hidden !important;
+}
+.custom-main-section-dense .container-section-dense{
+    max-height: calc(100% - 3.75rem);
+    overflow: auto !important;
+}
+
+.custom-shadow{
+    box-shadow: 0 1px 2px #b9b8b88e;
+}
+.logo-image {
+    min-width: 45px;
+    max-width: 45px;
+    min-height: 45px;
+    max-height: 45px;
+    margin: 0 12px;
+}
+
+.bg-custom{
+    --tw-bg-opacity: 1 !important;
+    background-color:rgb(247 249 252) !important;
+}
+.width{
+    min-width: 216px;
+    max-width: 216px;
+    min-height: 3.75rem;
+    max-height: 3.75rem;
+}
+.width img{
+    min-height: 3.75rem;
+    max-height: 3.75rem;
+}
+.custom-bg-navigation{
+    color: black !important;
+    background-color: #f5f5f5 !important;
+}
+.navigation-item:hover:not(.navigation-item-active){
+    background-color: rgb(235, 235, 235) !important;
+}
+.navigation-item-active{
+    background-color: #3787ee !important;
+    color: #f5f5f5 !important;
+}

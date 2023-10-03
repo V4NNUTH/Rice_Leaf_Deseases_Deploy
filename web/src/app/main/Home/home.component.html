@@ -1,0 +1,68 @@
+<div class="w-full h-full  flex flex-col md:flex-row gap-4 justify-center  px-10">
+    <div class="w-[100%] md:w-[60%] h-full  flex flex-col gap-10 justify-center items-center">
+        <span class="text-5xl text-green-700">Rice Leaf Images Detection</span>
+        <span class="text-xl text-gray-700">Please Input Images of Rice leaf Disease Below</span>
+        
+        <div class="w-[100%] aspect-[1/0.5] bg-[#F5F8FC] border-[3px] rounded-md border-gray-500 gap-3  border-dashed flex flex-col justify-center items-center">
+            <div *ngIf="!isScanning " (dragover)="dragover($event)" (drop)="dropFile($event)" class="w-full  h-full flex flex-col gap-4 justify-center items-center">
+                <div *ngIf="!isOnDrag" class="w-full flex justify-center">
+                    <img [src]="selectedFile?.base64 ? selectedFile?.base64 : '../../../assets/images/cloud-computing.png'" class="w-[10rem]" alt="thumnail">
+                </div>
+                <div  *ngIf="!isOnDrag" class="w-full flex justify-center">
+                    <span class="text-2xl text-gray-700">Drag & Drop, Upload or Paste image</span>
+                </div>
+                <div  *ngIf="!isOnDrag">
+                    <div class="w-full flex justify-center">
+                        <label for="fileUpload" class="flex items-center gap-2 bg-blue-500 text-gray-50 p-2 rounded-sm cursor-pointer">
+                            
+                            <mat-icon class="text-gray-50" svgIcon="mat_outline:add_circle"></mat-icon>
+                            Browse
+                            
+                        </label>
+                        <input #file (change)="onChangeFile(file)" type="file" class="hidden"  id="fileUpload" accept="image/*">
+                    </div>
+                    
+                </div>
+                <label  *ngIf="isOnDrag" for="fileUpload_second" #dragUi  class="w-full h-full cursor-pointer flex-col gap-4 py-4 items-center justify-center flex"  >
+                    <img src='../../../assets/images/cloud-computing.png' class="w-[10rem]" alt="file Upload">
+                    <h1>Drop your image here</h1>
+                    <input #file (change)="onChangeFile(file)" type="file" class="hidden"  id="fileUpload_second" accept="image/*">
+                </label>
+                
+            </div>
+            
+            <div *ngIf="isScanning" class="w-full flex flex-col justify-center items-center">
+                <span class="text-2xl "> Scanning</span>
+                <div class="lds-spinner"><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div><div></div></div>
+            </div>
+        </div>
+        <div>
+            <button (click)="SubmitFile()" class= "text-xl bg-green-700 text-green-50 p-2 px-4 w-full flex justify-center rounded-sm cursor-pointer" >Predict</button>
+            <div class="copyrights justify-center gap-10">© 2023 AMS of ITC and CamCyber.</div>
+        </div>
+    </div> 
+    <div *ngIf="AllFile.length>0" class="w-[100%] md:w-[40%] h-full flex flex-col justify-center gap-10 ">
+        <div class="w-full aspect-[1/0.9] flex flex-col gap-2  md:overflow-auto px-4">
+            <div 
+            *ngFor="let item of AllFile"
+            class="w-full flex pr-10 relative justify-between items-center p-2 rounded-md bg-[#F5F8FC] border-2 border-gray-600 hover:bg-[#ebedef] duration-200 cursor-pointer" 
+            (click)="viewInfor($event,item)"
+            >
+            <div class="ignore w-[7rem] cursor-pointer" (click)="previewImg(item)"> 
+                <img [src]="item.base64" class="ignore object-cover" alt="">
+                
+            </div>
+            <div class="flex flex-col items-end">
+                <span class="text-xl font-normal">{{item.msg}} </span>
+                <span class="p-1 bg-blue-500 rounded-md text-gray-100">{{item.percentage | number:'1.0-0'}}%</span>
+            </div>
+            
+        </div>
+        
+        
+        
+    </div>
+    
+</div>
+
+</div>

@@ -1,0 +1,13 @@
+<div mat-dialog-title class="custom-dialog-title flex justify-between bg-[#3B81F6]">
+    <span class="text-xl text-gray-50">Preview Image: <strong>{{data?.file?.name}}</strong> </span>
+    <button (click)="close()"   class="group p-1 rounded-md  hover:bg-gray-100/90 duration-300 flex justify-center items-center">
+        <mat-icon svgIcon="mat_outline:close"  class="group-hover:text-gray-900 duration-300 cursor-pointer font-bold  text-gray-50" ></mat-icon>
+    </button>
+</div>
+
+<mat-dialog-content class="custom-dialog-content-list-user" >
+
+    <div class="w-full h-[50rem]  flex justify-center items-center">
+        <img class="h-full w-auto"  [src]="data.base64">
+    </div>
+</mat-dialog-content>
